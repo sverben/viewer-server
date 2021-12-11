@@ -1,0 +1,7 @@
+name: McMap
+version: '${project.version}'
+main: app.mcmap.mcmap.Mcmap
+api-version: 1.17
+authors: [ sverben ]
+description: Minecraft maps on the web
+website: mcmap.app
